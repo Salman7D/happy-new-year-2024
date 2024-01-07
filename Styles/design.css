@@ -1,0 +1,83 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+
+
+.banner{
+    
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    margin: 50px auto 120px;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.banner-text{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 165px;
+}
+
+.banner-text h3{
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin: 20px auto 177px;
+    width: 632px;
+    height: 190px;
+    
+}
+
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0px auto 48px;
+}
+
+.holi{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.cate{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+.middle{
+    background: url('../images/New\ Year\ Photo.png');
+    background-repeat: no-repeat;
+    margin: 48px auto 120px;
+    border-radius: 16px;
+    width: 802.9px;
+    height: 500px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
