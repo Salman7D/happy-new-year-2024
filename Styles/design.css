@@ -475,8 +475,110 @@ input[type="submit"]:hover{
     margin: 120px 1000px 409px 140px;
 }
 
+.call-number{
+    position: absolute;
+    width: 24px; 
+    height: 24px;
+    margin: 128px 502px 457px 1047px; 
+}
+
+.number{
+    position: absolute; 
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    margin: 120px 250px 450px 1080px; 
+}
+
+.world{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin: 168px 502px 417px 1047px; 
+}
+
+.webs{
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    margin: 160px 250px 409px 1080px; 
+}   
+
+.line1{
+    position: absolute;
+    background: rgba(255, 255, 255, 0.15);
+    width: 1320px;
+    height: 1px;
+    margin: 250px 140px 359px 140px;
+}
+
+.fb{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 298px 896px 247px 640px;
+
+}
+
+.insta{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 298px 808px 247px 728px; 
+}
+
+.twit{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 298px 720px 247px 816px; 
+}
+.ln{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 298px 632px 247px 904px; 
+}
+
+.line2{
+    position: absolute;
+    background: rgba(255, 255, 255, 0.15);
+    width: 1320px;
+    height: 1px;
+    margin: 410px 140px 199px 140px;
+}
+
+.last-line-left{
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 460px 1165px 120px 140px;
+}
+
+.last-line-right{
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 460px 140px 120px 1315px;
+}
+
 .foot{
     background: #070211;
     width: 1600px;
-    height: 609px;
+    height: 609px; 
 }
