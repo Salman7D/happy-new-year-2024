@@ -203,12 +203,12 @@
     width: 1600px;
     
      
-}
+} 
 
 .best-offer{
     text-align: left;
     
-}
+} 
 
 .come{
     color: #070211;
@@ -309,4 +309,174 @@
     line-height: 32px; 
     margin-left: 140px;
     margin-bottom: 48px;
+}
+
+.all-products1{
+    display: flex;
+}
+
+
+.products1{
+    background: url('../images/Rectangle\ 3.png');
+    border-radius: 16px;
+    width: 424px;
+    height: 450px;
+    margin-left: 140px;
+    margin-bottom: 24px;
+
+}
+
+.products2{
+    background: url('../images/Rectangle\ 4.png');
+    border-radius: 16px; 
+    width: 424px;
+    height: 450px;
+    margin-left: 24px;
+    margin-bottom: 24px;
+}
+
+.products3{
+    background: url('../images/Rectangle\ 5.png');
+    border-radius: 16px; 
+    width: 424px;
+    height: 450px;
+    margin-left: 24px;
+    margin-bottom: 24px;
+}
+
+
+.all-products2{
+    display: flex;
+}
+
+.products4{
+    background: url('../images/Rectangle\ 6.png');
+    border-radius: 16px; 
+    width: 424px;
+    height: 450px;
+    margin-left: 140px;
+    margin-bottom: 140px;
+}
+
+.products5{
+    background: url('../images/Rectangle\ 7.png');
+    border-radius: 16px; 
+    width: 424px;
+    height: 450px;
+    margin-left: 24px;
+    margin-bottom: 140px;
+}
+
+.products6{
+    background: url('../images/Rectangle\ 8.png');
+    border-radius: 16px; 
+    width: 424px;
+    height: 450px;
+    margin-left: 24px;
+    margin-bottom: 140px;
+}
+
+.subscribe{
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    margin-left: 140px;
+    margin-bottom: 120px;
+    
+}
+
+.mail{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin: 80px 585px 386px 585px;
+}
+
+.subs{
+    position: absolute;
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 270px 404px 286px 404px;
+}
+
+.ipsum{
+    position: absolute; 
+    color: rgba(7, 2, 17, 0.60);
+    width: 896px;
+    text-align: center;  
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin: 352px 212px 200px 212px; 
+}
+
+.box{
+    position: absolute;
+    margin: 464px 336px 80px 370px;
+}
+
+.email{
+    position: relative;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    margin-left: 5px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 50px 0 0 50px;
+    border: none;
+    background: #FFF;
+    width: 340px;
+    height: 50px;
+    padding: 0px 25px; 
+}
+
+.subbs{
+    position: relative;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: -5px;
+    border-radius: 0 50px 50px 0;
+    border: none;
+    background: #F00;
+    width: 130px;
+    height: 50px;
+}
+
+input[type="submit"]:hover{
+    background: rgba(255, 0, 0, 0.53);
+}
+
+.big{
+    position: absolute;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    margin: 120px 1000px 409px 140px;
+}
+
+.foot{
+    background: #070211;
+    width: 1600px;
+    height: 609px;
 }
