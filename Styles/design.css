@@ -92,10 +92,6 @@ body{
     margin: 120px auto;
     width: 1320px;
     height: 600px;
-    /* display: flex;
-    justify-content: center; 
-    align-items: center;  */
-
 }
 
 .mid-party-text{
@@ -111,9 +107,6 @@ body{
     margin-left: 150px;
     margin-top: 130px;
     margin-bottom: 48px;
-    
-    
-    
 }
 
 .mid-party-text h4{
@@ -255,9 +248,6 @@ body{
     justify-content: center;
     align-items: center; 
     margin-top: 120px;
-    /* margin-bottom: 120px; */
-    
-
 }
 
 .elipse{
@@ -267,8 +257,6 @@ body{
      width: 364.844px;
      height: 364.844px;
 }
-
-
 
 .year{
     color: #F00;
@@ -297,8 +285,6 @@ body{
     margin: 0 149px 118px 118px;
 
 }
-
-
 
 .functional{
     color: #070211;
@@ -345,7 +331,6 @@ body{
 
 }
 
-
 .red-dress{
     background: url('../images/Rectangle\ 1.png');
     border-radius: 16px 16px 0 0;
@@ -360,8 +345,6 @@ body{
     height: 220.119px;   
 } 
 
-
-
 .red-square{
     border-radius: 16px 0px 16px 16px;
     background: #F00;
@@ -371,7 +354,6 @@ body{
     margin-bottom: 120px;
 
 }  
-
 
 .gifts{
     color: #F00;
@@ -412,7 +394,6 @@ body{
     display: flex;
 }
 
-
 .products1{
     background: url('../images/Rectangle\ 3.png');
     border-radius: 16px;
@@ -440,7 +421,6 @@ body{
     margin-left: 24px;
     margin-bottom: 24px;
 }
-
 
 .all-products2{
     display: flex;
@@ -471,6 +451,10 @@ body{
     height: 450px;
     margin-left: 24px;
     margin-bottom: 140px;
+}
+
+.hov:hover .bg{
+    transform: scale(1.2);
 }
 
 .subscribe{
