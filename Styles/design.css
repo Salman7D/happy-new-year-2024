@@ -345,14 +345,22 @@ body{
 
 }
 
+
 .red-dress{
     background: url('../images/Rectangle\ 1.png');
     border-radius: 16px 16px 0 0;
     width: 429px;
     height: 433px;
     margin-left: 1030px;
-
 }
+
+.fifty{
+    position: absolute;
+    width: 220.048px;
+    height: 220.119px;   
+} 
+
+
 
 .red-square{
     border-radius: 16px 0px 16px 16px;
@@ -362,12 +370,7 @@ body{
     margin-left: 140px;
     margin-bottom: 120px;
 
-}
-
-
-.mistry-box{
-    
-}
+}  
 
 
 .gifts{
