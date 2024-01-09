@@ -2,7 +2,9 @@
    margin: 0;
    padding: 0; 
 }
-
+body{
+    overflow-x: hidden;
+}
 
 .banner{
     
@@ -125,6 +127,19 @@
     
 } 
 
+.jn{
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 434px 1059px 142px 200px;
+}
+
 .details{
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     width: 1320px;
@@ -182,7 +197,13 @@
     margin-left: 180px;
     margin-top: 48px;
 } 
-
+.g70{
+    position: absolute;
+    margin-left: 862px;
+    margin-top: 76px;
+    
+    
+}
 .cont{
     display: flex;
 }
