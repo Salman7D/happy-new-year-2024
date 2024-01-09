@@ -152,7 +152,7 @@
     text-align: center;
     font-family: Inter;
     font-size: 32px;
-    font-style: normal;
+    font-style: normal; 
     font-weight: 600;
     line-height: 56px;
     text-transform: capitalize;
@@ -183,11 +183,11 @@
     margin-top: 48px;
 } 
 
-.best-offer{
-    margin-left: 140px;
+.cont{
+    display: flex;
 }
 
-.offer{
+.best-offer{
     color: #F00;
     text-align: left;
     font-family: Inter;
@@ -195,22 +195,12 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    margin: 240px 256px 16px 140px;
 }
 
 
-.soon{
-    display: flex; 
-    width: 1600px;
-    
-     
-} 
 
-.best-offer{
-    text-align: left;
-    
-} 
-
-.come{
+.coming-soon{
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
@@ -218,18 +208,58 @@
     font-weight: 900;
     line-height: normal;
     text-transform: capitalize;
+    margin: 0 135px 22px 140px;
 }
 
-.dolor{
+.offer-title{
     color: rgba(7, 2, 17, 0.60);
+    width: 393px;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px;
-    margin-bottom: 135px;
-    margin-right: 800px;
+    line-height: 32px; 
+    margin: 0 70px 224px 140px;
 }
+
+.elipse{
+     background: url('../images/Ellipse\ 1.png');
+     border-radius: 364.844px;
+     width: 364.844px;
+     height: 364.844px;
+     margin: 180px 80px 169px 20px;
+
+}
+
+.year{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 232px 149px 16px 118px;
+}
+
+.year-decription{
+    color: rgba(7, 2, 17, 0.60);
+    width: 276px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin: 0 0 43px 118px;
+}
+
+.hn-pic{
+    width: 140px;
+    height: 140px;
+    margin: 0 149px 118px 118px;
+
+}
+
+
 
 .functional{
     color: #070211;
@@ -563,7 +593,7 @@ input[type="submit"]:hover{
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    margin: 460px 1165px 120px 140px;
+    margin: 460px 1100px 120px 140px;
 }
 
 .last-line-right{
